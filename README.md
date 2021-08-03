@@ -10,6 +10,19 @@ Here is some useful information from COMSOL blogs, the multiphysics Cyclopedia, 
 [Weak form III](https://www.comsol.de/blogs/discretizing-the-weak-form-equations/) <br/>
 [Weak form IV](https://www.comsol.de/blogs/how-to-implement-the-weak-form-for-time-dependent-equations-2/) <br/>
 
+## Solver issues
+A science of itself - many models including nonlinearity and transient simulation do not converge with default settings.
+
+[Solvers: Fully coupled or segregated approach](https://www.comsol.com/blogs/solving-multiphysics-problems) <br/>
+[Direct and iterative solvers](https://www.comsol.com/blogs/solutions-linear-systems-equations-direct-iterative-solvers/) <br/>
+[Time-dependent events](https://www.comsol.com/blogs/modeling-a-periodic-heat-load) <br/>
+[Detect sources of convergence problems](https://www.comsol.com/blogs/plotting-the-algebraic-residual-to-study-model-convergence) <br/>
+
+[Solver convergence1](https://community.cmc.ca/docs/DOC-1453) <br/>
+[Solver convergence2](https://www.comsol.com/blogs/improving-convergence-multiphysics-problems) <br/>
+[Solver convergence3](https://www.comsol.de/support/knowledgebase/103) <br/>
+
+
 ## Mechanics
 
 ### Some basics in mechanical simulation
