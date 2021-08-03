@@ -18,9 +18,8 @@ A science of itself - many models including nonlinearity and transient simulatio
 [Time-dependent events](https://www.comsol.com/blogs/modeling-a-periodic-heat-load) <br/>
 [Residual operator: Detect sources of convergence problems](https://www.comsol.com/blogs/plotting-the-algebraic-residual-to-study-model-convergence) <br/>
 
-[Solver convergence1](https://community.cmc.ca/docs/DOC-1453) <br/>
-[Solver convergence2](https://www.comsol.com/blogs/improving-convergence-multiphysics-problems) <br/>
-[Solver convergence3](https://www.comsol.de/support/knowledgebase/103) <br/>
+[Solver convergence1](https://www.comsol.com/blogs/improving-convergence-multiphysics-problems) <br/>
+[Solver convergence2](https://www.comsol.de/support/knowledgebase/103) <br/>
 
 
 ## Mechanics
