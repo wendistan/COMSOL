@@ -16,7 +16,11 @@ Here is some useful information from COMSOL blogs or the multiphysics Cyclopedia
 [Generalized plain strain modeling](https://www.comsol.de/blogs/how-to-model-generalized-plane-strain-with-comsol-multiphysics/) <br/>
 
 ### Damping
+[Damping in Structural Dynamics: Theory and Sources](https://www.comsol.de/blogs/damping-in-structural-dynamics-theory-and-sources) <br/>
+[Damping types in COMSOL](https://www.comsol.de/blogs/how-to-model-different-types-of-damping-in-comsol-multiphysics) <br/>
+[Acoustic damping](https://www.comsol.com/blogs/modeling-acoustic-damping-processes) <br/>
+[App: Viscoelastic damper](https://www.comsol.com/model/viscoelastic-structural-damper-4485) <br/>
 
 ### Shape memory
-[Uniaxial loading](https://www.comsol.de/model/uniaxial-loading-of-shape-memory-alloy-54871) <br/>
-[SMA](https://www.comsol.de/blogs/the-elephants-of-materials-science-smas-never-forget-their-shape/) <br/>
+[SMA basics](https://www.comsol.de/blogs/the-elephants-of-materials-science-smas-never-forget-their-shape/) <br/>
+[MApp: Uniaxial loading](https://www.comsol.de/model/uniaxial-loading-of-shape-memory-alloy-54871) <br/>
