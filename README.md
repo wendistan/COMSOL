@@ -31,3 +31,4 @@ Here is some useful information from COMSOL blogs or the multiphysics Cyclopedia
 [External material model](https://www.comsol.com/blogs/accessing-external-material-models-for-structural-mechanics/) <br/>
 [Example: elastoplasticity](https://www.comsol.com/blogs/how-to-implement-elastoplasticity-in-a-model-using-external-materials/) <br/>
 [Forum](https://www.comsol.co.in/support/knowledgebase/1281) <br/>
+[App: Damage model](https://www.comsol.com/model/external-material-examples-structural-mechanics-32331) <br/>
