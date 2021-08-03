@@ -36,7 +36,12 @@ COMSOL solver for wave problems <br/>
 [Stiffness of elastic structures 2+3D](https://www.comsol.com/blogs/computing-stiffness-linear-elastic-structures-part-2) <br/>
 
 
-[Coupling different parts, strcutural mechanics module](http://www.comsol.com/blogs/coupling-structural-mechanics-interfaces) <br/>
+
+### Reduction approaches
+[Trusses, Plates etc. + coupling different parts, strcutural mechanics module](http://www.comsol.com/blogs/coupling-structural-mechanics-interfaces) <br/>
+[Lumped elements](https://www.comsol.de/blogs/how-to-use-lumped-elements-to-model-a-mechanical-system) <br/>
+[Lumped elements](https://www.comsol.de/blogs/examining-vibration-in-a-lumped-model-of-the-human-body) <br/>
+
 <!--Initial strain and thermal stress
 [1](http://www.comsol.com/blogs/structural-mechanics-tutorials-adding-initial-strain-and-thermal-stress) <br/> -->
 
