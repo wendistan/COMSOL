@@ -29,6 +29,7 @@ COMSOL solver for wave problems <br/>
 ## Mechanics
 
 ### Some basics in mechanical simulation
+[Different stress and strain measures](https://www.comsol.com/blogs/why-all-these-stresses-and-strains) <br/>
 [Generalized plain strain modeling](https://www.comsol.de/blogs/how-to-model-generalized-plane-strain-with-comsol-multiphysics/) <br/>
 
 [Stiffness of elastic structures 1D](http://www.comsol.com/blogs/computing-stiffness-linear-elastic-structures-part-1) <br/>
@@ -36,8 +37,8 @@ COMSOL solver for wave problems <br/>
 
 
 [Coupling different parts, strcutural mechanics module](http://www.comsol.com/blogs/coupling-structural-mechanics-interfaces) <br/>
-Initial strain and thermal stress
-[1](http://www.comsol.com/blogs/structural-mechanics-tutorials-adding-initial-strain-and-thermal-stress) <br/>
+//Initial strain and thermal stress
+//[1](http://www.comsol.com/blogs/structural-mechanics-tutorials-adding-initial-strain-and-thermal-stress) <br/>
 
 ### Damping
 [Damping in Structural Dynamics: Theory and Sources](https://www.comsol.de/blogs/damping-in-structural-dynamics-theory-and-sources) <br/>
