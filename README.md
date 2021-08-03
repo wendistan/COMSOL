@@ -21,6 +21,8 @@ Here is some useful information from COMSOL blogs or the multiphysics Cyclopedia
 [Acoustic damping](https://www.comsol.com/blogs/modeling-acoustic-damping-processes) <br/>
 [App: Viscoelastic damper](https://www.comsol.com/model/viscoelastic-structural-damper-4485) <br/>
 
+[Forum](https://www.comsol.com/forum/thread/326/damping-problem-in-the-undamped-vibration-analysis-of-a-cantilevered-beam-in-com?last=2010-01-25T12:41:40Z)
+
 ### Shape memory
 [SMA basics](https://www.comsol.de/blogs/the-elephants-of-materials-science-smas-never-forget-their-shape/) <br/>
-[MApp: Uniaxial loading](https://www.comsol.de/model/uniaxial-loading-of-shape-memory-alloy-54871) <br/>
+[App: Uniaxial loading](https://www.comsol.de/model/uniaxial-loading-of-shape-memory-alloy-54871) <br/>
