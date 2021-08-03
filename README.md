@@ -34,6 +34,11 @@ COMSOL solver for wave problems <br/>
 [Stiffness of elastic structures 1D](http://www.comsol.com/blogs/computing-stiffness-linear-elastic-structures-part-1) <br/>
 [Stiffness of elastic structures 2+3D](https://www.comsol.com/blogs/computing-stiffness-linear-elastic-structures-part-2) <br/>
 
+
+[Coupling different parts, strcutural mechanics module](http://www.comsol.com/blogs/coupling-structural-mechanics-interfaces) <br/>
+Initial strain and thermal stress
+[](http://www.comsol.com/blogs/structural-mechanics-tutorials-adding-initial-strain-and-thermal-stress) <br/>
+
 ### Damping
 [Damping in Structural Dynamics: Theory and Sources](https://www.comsol.de/blogs/damping-in-structural-dynamics-theory-and-sources) <br/>
 [Damping types in COMSOL](https://www.comsol.de/blogs/how-to-model-different-types-of-damping-in-comsol-multiphysics) <br/>
@@ -45,6 +50,7 @@ COMSOL solver for wave problems <br/>
 ### Shape memory
 [SMA basics](https://www.comsol.de/blogs/the-elephants-of-materials-science-smas-never-forget-their-shape/) <br/>
 [App: Uniaxial loading](https://www.comsol.de/model/uniaxial-loading-of-shape-memory-alloy-54871) <br/>
+
 
 ### Elastoplasticity
 [Fatigue and failure](https://www.comsol.com/blogs/modeling-fatigue-failure-in-elastoplastic-materials) <br/>
