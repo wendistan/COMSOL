@@ -37,7 +37,7 @@ COMSOL solver for wave problems <br/>
 
 [Coupling different parts, strcutural mechanics module](http://www.comsol.com/blogs/coupling-structural-mechanics-interfaces) <br/>
 Initial strain and thermal stress
-[](http://www.comsol.com/blogs/structural-mechanics-tutorials-adding-initial-strain-and-thermal-stress) <br/>
+[1](http://www.comsol.com/blogs/structural-mechanics-tutorials-adding-initial-strain-and-thermal-stress) <br/>
 
 ### Damping
 [Damping in Structural Dynamics: Theory and Sources](https://www.comsol.de/blogs/damping-in-structural-dynamics-theory-and-sources) <br/>
