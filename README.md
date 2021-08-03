@@ -1,5 +1,5 @@
 # COMSOL resources
-Here is some useful information from COMSOL blogs or the multiphysics Cyclopedia. The only sensible source I know to learn about this software package.
+Here is some useful information from COMSOL blogs, the multiphysics Cyclopedia, the Application Gallery and some forum answers. The only sensible source I know to learn about this software package.
 
 ## Basics about FEM in COMSOL
 [Finite Element Method](https://www.comsol.com/multiphysics/finite-element-method) <br/>
