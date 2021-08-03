@@ -10,4 +10,10 @@ Here is some useful information from COMSOL blogs or the multiphysics Cyclopedia
 [Weak form III](https://www.comsol.de/blogs/discretizing-the-weak-form-equations/) <br/>
 [Weak form IV](https://www.comsol.de/blogs/how-to-implement-the-weak-form-for-time-dependent-equations-2/) <br/>
 
+## Mechanics
+
+### Some basics in mechanical simulation
+[Generalized plain strain modeling](https://www.comsol.de/blogs/how-to-model-generalized-plane-strain-with-comsol-multiphysics/) <br/>
+
+### Damping
 
