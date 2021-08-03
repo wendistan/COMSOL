@@ -22,7 +22,7 @@ A science of itself - many models including nonlinearity and transient simulatio
 [Solver convergence: Nonlinear stationary models](https://www.comsol.de/support/knowledgebase/103) <br/>
 
 COMSOL solver for wave problems <br/>
-[Manual setup of time step width](https://www.comsol.de/support/knowledgebase/1118) <br/> -> generalized alpha solver
+[Manual setup of time step width](https://www.comsol.de/support/knowledgebase/1118) -> generalized alpha solver <br/>
 [Scaling of variable fields](https://www.comsol.com/support/knowledgebase/1240) <br/>
 [Smoothing of step loads to avoid high frequency solutions](https://www.comsol.com/support/knowledgebase/1244) <br/>
 
