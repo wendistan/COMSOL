@@ -26,3 +26,8 @@ Here is some useful information from COMSOL blogs or the multiphysics Cyclopedia
 ### Shape memory
 [SMA basics](https://www.comsol.de/blogs/the-elephants-of-materials-science-smas-never-forget-their-shape/) <br/>
 [App: Uniaxial loading](https://www.comsol.de/model/uniaxial-loading-of-shape-memory-alloy-54871) <br/>
+
+### User defined materials
+[External material model](https://www.comsol.com/blogs/accessing-external-material-models-for-structural-mechanics/) <br/>
+[Example: elastoplasticity](https://www.comsol.com/blogs/how-to-implement-elastoplasticity-in-a-model-using-external-materials/) <br/>
+[Forum](https://www.comsol.co.in/support/knowledgebase/1281) <br/>
