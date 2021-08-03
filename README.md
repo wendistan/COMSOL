@@ -17,3 +17,6 @@ Here is some useful information from COMSOL blogs or the multiphysics Cyclopedia
 
 ### Damping
 
+### Shape memory
+[Uniaxial loading](https://www.comsol.de/model/uniaxial-loading-of-shape-memory-alloy-54871) <br/>
+[SMA](https://www.comsol.de/blogs/the-elephants-of-materials-science-smas-never-forget-their-shape/) <br/>
