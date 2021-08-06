@@ -62,7 +62,7 @@ the following links shows how to realize a moving heat spot as BC <br/>
 [Mechanical multi/instability](https://www.comsol.de/blogs/can-a-stiffness-be-negative/) links to Applications <br/>
 
 
-### Large defortmation
+### Large deformation
 https://www.comsol.com/model/large-deformation-analysis-of-a-beam-204
 https://www.comsol.de/model/spherical-cap-with-central-point-load-67161
 
