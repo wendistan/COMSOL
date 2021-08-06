@@ -34,6 +34,14 @@ the following links shows how to realize a moving heat spot as BC <br/>
 ## Variational problems
 [Modeling Soap Films and Other Variational Problems](https://www.comsol.com/blogs/introduction-to-modeling-soap-films-and-other-variational-problems) <br/>
 [BCs and Constraints](https://www.comsol.com/blogs/specifying-boundary-conditions-and-constraints-in-variational-problems) <br/>
+[Constraint enforcement](https://www.comsol.de/blogs/methods-for-dealing-with-numerical-issues-in-constraint-enforcement) <br/>
+
+## Equation-based modeling
+[1](https://www.comsol.de/blogs/3-examples-of-equation-based-modeling-in-comsol-multiphysics) <br/>
+
+
+
+
 
 ## Mechanics
 
@@ -76,3 +84,11 @@ the following links shows how to realize a moving heat spot as BC <br/>
 [Example: elastoplasticity](https://www.comsol.com/blogs/how-to-implement-elastoplasticity-in-a-model-using-external-materials/) <br/>
 [Forum](https://www.comsol.co.in/support/knowledgebase/1281) <br/>
 [App: Damage model](https://www.comsol.com/model/external-material-examples-structural-mechanics-32331) <br/>
+
+
+
+
+
+## Diverse
+[Product design and testing](https://www.comsol.de/blogs/veryst-combines-material-testing-and-simulation-for-reliable-results) <br/>
+
