@@ -26,6 +26,15 @@ COMSOL solver for wave problems <br/>
 [Scaling of variable fields](https://www.comsol.com/support/knowledgebase/1240) <br/>
 [Smoothing of step loads to avoid high frequency solutions](https://www.comsol.com/support/knowledgebase/1244) <br/>
 
+## Special boundary conditions (BCs)
+the following links shows how to realize a moving heat spot as BC <br/>
+[Conditional BCs](https://www.comsol.com/blogs/how-to-make-boundary-conditions-conditional-in-your-simulation) <br/>
+[Example: Beam with a Traveling Load](https://www.comsol.com/model/beam-with-a-traveling-load-20401) <br/>
+
+## Variational problems
+[Modeling Soap Films and Other Variational Problems](https://www.comsol.com/blogs/introduction-to-modeling-soap-films-and-other-variational-problems) <br/>
+[BCs and Constraints](https://www.comsol.com/blogs/specifying-boundary-conditions-and-constraints-in-variational-problems) <br/>
+
 ## Mechanics
 
 ### Some basics in mechanical simulation
