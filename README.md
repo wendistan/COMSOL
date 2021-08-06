@@ -10,6 +10,9 @@ Here is some useful information from COMSOL blogs, the multiphysics Cyclopedia, 
 [Weak form III](https://www.comsol.de/blogs/discretizing-the-weak-form-equations/) <br/>
 [Weak form IV](https://www.comsol.de/blogs/how-to-implement-the-weak-form-for-time-dependent-equations-2/) <br/>
 
+[Solving Linear Static Finite Element Models](https://www.comsol.com/blogs/solving-linear-static-finite-element-models) <br/>
+[Solving Nonlinear Static Finite Element Problems](https://www.comsol.com/blogs/solving-nonlinear-static-finite-element-problems) <br/>
+
 ## Solver issues
 A science of itself - many models including nonlinearity and transient simulation do not converge with default settings.
 
@@ -56,7 +59,12 @@ the following links shows how to realize a moving heat spot as BC <br/>
 [Stiffness of elastic structures 1D](http://www.comsol.com/blogs/computing-stiffness-linear-elastic-structures-part-1) <br/>
 [Stiffness of elastic structures 2+3D](https://www.comsol.com/blogs/computing-stiffness-linear-elastic-structures-part-2) <br/>
 
+[Mechanical multi/instability](https://www.comsol.de/blogs/can-a-stiffness-be-negative/) links to Applications <br/>
 
+
+### Large defortmation
+https://www.comsol.com/model/large-deformation-analysis-of-a-beam-204
+https://www.comsol.de/model/spherical-cap-with-central-point-load-67161
 
 ### Reduction approaches
 [Trusses, Plates etc. + coupling different parts, strcutural mechanics module](http://www.comsol.com/blogs/coupling-structural-mechanics-interfaces) <br/>
