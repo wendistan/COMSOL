@@ -46,6 +46,10 @@ the following links shows how to realize a moving heat spot as BC <br/>
 ## Mechanics
 
 ### Some basics in mechanical simulation
+[Basics in linear elasticity](https://www.comsol.com/blogs/modeling-linear-elastic-materials-how-difficult-can-it-be) see also links at the end! <br/>
+[Geometric nonlinearity](https://www.comsol.com/blogs/what-is-geometric-nonlinearity) <br/>
+
+
 [Different stress and strain measures](https://www.comsol.com/blogs/why-all-these-stresses-and-strains) <br/>
 [Generalized plain strain modeling](https://www.comsol.de/blogs/how-to-model-generalized-plane-strain-with-comsol-multiphysics/) <br/>
 
@@ -75,7 +79,9 @@ the following links shows how to realize a moving heat spot as BC <br/>
 [App: Uniaxial loading](https://www.comsol.de/model/uniaxial-loading-of-shape-memory-alloy-54871) <br/>
 
 
-### Elastoplasticity
+### Nonlinearity and Elastoplasticity
+[Introducing Nonlinear Elastic Materials][https://www.comsol.com/blogs/introducing-nonlinear-elastic-materials) links! <br/>
+
 [Fatigue and failure](https://www.comsol.com/blogs/modeling-fatigue-failure-in-elastoplastic-materials) <br/>
 [Example: elastoplasticity](https://www.comsol.com/blogs/how-to-implement-elastoplasticity-in-a-model-using-external-materials) <br/>
 
@@ -89,6 +95,7 @@ the following links shows how to realize a moving heat spot as BC <br/>
 
 
 
-## Diverse
+## Testing and design
 [Product design and testing](https://www.comsol.de/blogs/veryst-combines-material-testing-and-simulation-for-reliable-results) <br/>
-
+[Obtaining Material Data for Structural Mechanics from Measurements](https://www.comsol.com/blogs/obtaining-material-data-for-structural-mechanics-from-measurements) <br/>
+[Part2](https://www.comsol.com/blogs/part-2-obtaining-material-data-for-structural-mechanics-from-measurements) <br/>
