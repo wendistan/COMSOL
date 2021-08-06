@@ -37,7 +37,7 @@ the following links shows how to realize a moving heat spot as BC <br/>
 [Constraint enforcement](https://www.comsol.de/blogs/methods-for-dealing-with-numerical-issues-in-constraint-enforcement) <br/>
 
 ## Equation-based modeling
-[1](https://www.comsol.de/blogs/3-examples-of-equation-based-modeling-in-comsol-multiphysics) <br/>
+[Equation based modeling](https://www.comsol.de/blogs/3-examples-of-equation-based-modeling-in-comsol-multiphysics) <br/>
 
 
 
