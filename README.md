@@ -88,7 +88,7 @@ https://www.comsol.de/model/spherical-cap-with-central-point-load-67161
 
 
 ### Nonlinearity and Elastoplasticity
-[Introducing Nonlinear Elastic Materials][https://www.comsol.com/blogs/introducing-nonlinear-elastic-materials) links! <br/>
+[Introducing Nonlinear Elastic Materials](https://www.comsol.com/blogs/introducing-nonlinear-elastic-materials) links! <br/>
 
 [Fatigue and failure](https://www.comsol.com/blogs/modeling-fatigue-failure-in-elastoplastic-materials) <br/>
 [Example: elastoplasticity](https://www.comsol.com/blogs/how-to-implement-elastoplasticity-in-a-model-using-external-materials) <br/>
