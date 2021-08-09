@@ -99,7 +99,7 @@ https://www.comsol.de/model/spherical-cap-with-central-point-load-67161
 [Forum](https://www.comsol.co.in/support/knowledgebase/1281) <br/>
 [App: Damage model](https://www.comsol.com/model/external-material-examples-structural-mechanics-32331) <br/>
 
-
+[Define material properties with functions](https://www.comsol.com/video/use-functions-define-material-property) <br/>
 
 
 
