@@ -16,13 +16,14 @@ Here is some useful information from COMSOL blogs, the multiphysics Cyclopedia, 
 ## Solver issues
 A science of itself - many models including nonlinearity and transient simulation do not converge with default settings.
 
-[Solvers: Fully coupled or segregated approach](https://www.comsol.com/blogs/solving-multiphysics-problems) <br/>
-[Direct and iterative solvers](https://www.comsol.com/blogs/solutions-linear-systems-equations-direct-iterative-solvers/) <br/>
-[Time-dependent events](https://www.comsol.com/blogs/modeling-a-periodic-heat-load) <br/>
-[Residual operator: Detect sources of convergence problems](https://www.comsol.com/blogs/plotting-the-algebraic-residual-to-study-model-convergence) <br/>
+* [Solvers: Fully coupled or segregated approach](https://www.comsol.com/blogs/solving-multiphysics-problems) <br/>
+* [Direct and iterative solvers](https://www.comsol.com/blogs/solutions-linear-systems-equations-direct-iterative-solvers/) <br/>
+* [Time-dependent events](https://www.comsol.com/blogs/modeling-a-periodic-heat-load) <br/>
+* [Residual operator: Detect sources of convergence problems](https://www.comsol.com/blogs/plotting-the-algebraic-residual-to-study-model-convergence) <br/>
 
-[Improving solver convergence](https://www.comsol.com/blogs/improving-convergence-multiphysics-problems) <br/>
-[Solver convergence: Nonlinear stationary models](https://www.comsol.de/support/knowledgebase/103) <br/>
+* [Improving solver convergence](https://www.comsol.com/blogs/improving-convergence-multiphysics-problems) <br/>
+* [Solver convergence: Nonlinear stationary models](https://www.comsol.de/support/knowledgebase/103) <br/>
+* [Improving convergence in nonlinear time dependent models](https://www.comsol.de/support/knowledgebase/1127) <br/>
 
 COMSOL solver for wave problems <br/>
 [Manual setup of time step width](https://www.comsol.de/support/knowledgebase/1118) -> generalized alpha solver <br/>
