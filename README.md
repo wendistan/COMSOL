@@ -86,7 +86,7 @@ https://www.comsol.de/model/spherical-cap-with-central-point-load-67161
 ### Shape memory
 [SMA basics](https://www.comsol.de/blogs/the-elephants-of-materials-science-smas-never-forget-their-shape/) <br/>
 [App: Uniaxial loading](https://www.comsol.de/model/uniaxial-loading-of-shape-memory-alloy-54871) <br/>
-
+[App: Stent](https://www.comsol.de/model/shape-memory-alloy-self-expanding-stent-65851) <br/>
 
 ### Nonlinearity and Elastoplasticity
 [Introducing Nonlinear Elastic Materials](https://www.comsol.com/blogs/introducing-nonlinear-elastic-materials) links! <br/>
