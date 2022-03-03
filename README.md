@@ -98,7 +98,7 @@ https://www.comsol.de/model/spherical-cap-with-central-point-load-67161
 
 ## Magnetism
 
-[Quick Intro to Permanent Magnet Modeling](https://www.comsol.com/blogs/quick-intro-permanent-magnet-modeling/)  [App](https://www.comsol.com/model/permanent-magnet-78)
+[Quick Intro to Permanent Magnet Modeling](https://www.comsol.com/blogs/quick-intro-permanent-magnet-modeling/)  Also check [App](https://www.comsol.com/model/permanent-magnet-78)
 
 
 
