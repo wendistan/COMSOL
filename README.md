@@ -94,6 +94,15 @@ https://www.comsol.de/model/spherical-cap-with-central-point-load-67161
 [Fatigue and failure](https://www.comsol.com/blogs/modeling-fatigue-failure-in-elastoplastic-materials) <br/>
 [Example: elastoplasticity](https://www.comsol.com/blogs/how-to-implement-elastoplasticity-in-a-model-using-external-materials) <br/>
 
+
+
+## Magnetism
+
+[Quick Intro to Permanent Magnet Modeling](https://www.comsol.com/blogs/quick-intro-permanent-magnet-modeling/)
+
+
+
+
 ### User defined materials
 [External material model](https://www.comsol.com/blogs/accessing-external-material-models-for-structural-mechanics/) &nbsp;&nbsp; [issue1](https://www.comsol.de/support/knowledgebase/1281) <br/>
 [Example: elastoplasticity](https://www.comsol.com/blogs/how-to-implement-elastoplasticity-in-a-model-using-external-materials/) <br/>
