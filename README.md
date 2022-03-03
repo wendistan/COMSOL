@@ -75,6 +75,9 @@ https://www.comsol.de/model/spherical-cap-with-central-point-load-67161
 <!--Initial strain and thermal stress
 [1](http://www.comsol.com/blogs/structural-mechanics-tutorials-adding-initial-strain-and-thermal-stress) <br/> -->
 
+[App: Rigid bodies](https://www.comsol.com/model/modeling-rigid-bodies-10566) <br/>
+
+
 ### Damping
 [Damping in Structural Dynamics: Theory and Sources](https://www.comsol.de/blogs/damping-in-structural-dynamics-theory-and-sources) <br/>
 [Damping types in COMSOL](https://www.comsol.de/blogs/how-to-model-different-types-of-damping-in-comsol-multiphysics) <br/>
