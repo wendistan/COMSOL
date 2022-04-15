@@ -1,6 +1,9 @@
 # COMSOL resources
 Here is some useful information from COMSOL blogs, the multiphysics Cyclopedia, the Application Gallery and some forum answers. The only sensible source I know to learn about this software package.
 
+## COMSOL handling
+[How to Navigate the COMSOL Multiphysics® User Interface](https://www.comsol.com/support/learning-center/article/34991/12) <br/>
+
 ## Basics about FEM in COMSOL
 [Finite Element Method](https://www.comsol.com/multiphysics/finite-element-method) <br/>
 [FEM Basics](https://www.comsol.com/blogs/solving-linear-static-finite-element-models) <br/>
