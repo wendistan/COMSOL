@@ -118,6 +118,13 @@ https://www.comsol.de/model/spherical-cap-with-central-point-load-67161
 [Modeling Ferromagnetic Materials in COMSOL Multiphysics](https://www.comsol.de/blogs/modeling-ferromagnetic-materials-in-comsol-multiphysics/)
 
 
+
+## Phase-field
+
+[Localized Corrosion Using the Phase Field Method](https://www.comsol.com/model/localized-corrosion-using-the-phase-field-method-79851) <br/>
+
+
+
 ## Testing and design
 [Product design and testing](https://www.comsol.de/blogs/veryst-combines-material-testing-and-simulation-for-reliable-results) <br/>
 [Obtaining Material Data for Structural Mechanics from Measurements, part 1](https://www.comsol.com/blogs/obtaining-material-data-for-structural-mechanics-from-measurements) <br/>
