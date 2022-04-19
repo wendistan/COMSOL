@@ -104,6 +104,7 @@ https://www.comsol.de/model/spherical-cap-with-central-point-load-67161
 
 ### User defined materials
 [External material model](https://www.comsol.com/blogs/accessing-external-material-models-for-structural-mechanics/) &nbsp;&nbsp; [issue1](https://www.comsol.de/support/knowledgebase/1281) <br/>
+[App: External Material Examples, Structural Mechanics](https://www.comsol.de/model/external-material-examples-structural-mechanics-32331) <br/>
 [Example: elastoplasticity](https://www.comsol.com/blogs/how-to-implement-elastoplasticity-in-a-model-using-external-materials/) <br/>
 [App: Damage model](https://www.comsol.com/model/external-material-examples-structural-mechanics-32331) <br/>
 
