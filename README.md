@@ -129,4 +129,4 @@ https://www.comsol.de/model/spherical-cap-with-central-point-load-67161
 [Product design and testing](https://www.comsol.de/blogs/veryst-combines-material-testing-and-simulation-for-reliable-results) <br/>
 [Obtaining Material Data for Structural Mechanics from Measurements, part 1](https://www.comsol.com/blogs/obtaining-material-data-for-structural-mechanics-from-measurements) <br/>
 [Obtaining Material Data for Structural Mechanics from Measurements, part 2](https://www.comsol.com/blogs/part-2-obtaining-material-data-for-structural-mechanics-from-measurements) <br/>
-[Parameter Estimation for a Tensile Test](https://www.comsol.de/model/parameter-estimation-for-a-tensile-test-88761) <br/>
+[App: Parameter Estimation for a Tensile Test](https://www.comsol.de/model/parameter-estimation-for-a-tensile-test-88761) <br/>
