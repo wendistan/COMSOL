@@ -68,7 +68,7 @@ the following links shows how to realize a moving heat spot as BC <br/>
 
 
 ### Large deformation
-[a](https://www.comsol.com/model/large-deformation-analysis-of-a-beam-204)
+[Large Deformation Analysis of a Beam](https://www.comsol.com/model/large-deformation-analysis-of-a-beam-204)
 [b](https://www.comsol.de/model/spherical-cap-with-central-point-load-67161)
 
 ### Reduction approaches
