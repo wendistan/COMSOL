@@ -111,6 +111,10 @@ App: [Spherical Cap with Central Point Load](https://www.comsol.de/model/spheric
 [Define material properties with functions](https://www.comsol.com/video/use-functions-define-material-property) <br/>
 
 
+### Bone modeling
+[Bone Remodeling Following Total Hip Replacement](https://www.comsol.com/paper/bone-remodeling-following-total-hip-replacement-short-stem-versus-long-stem-impl-13857 links!)
+
+
 
 
 ## Magnetism
