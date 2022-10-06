@@ -113,8 +113,9 @@ App: [Spherical Cap with Central Point Load](https://www.comsol.de/model/spheric
 
 ### Bone modeling
 [Bone Remodeling Following Total Hip Replacement](https://www.comsol.com/paper/bone-remodeling-following-total-hip-replacement-short-stem-versus-long-stem-impl-13857) <br/>
-
-
+[Design and Strain Analysis of Artificial Femoral Head and Stem](https://www.comsol.com/paper/design-and-strain-analysis-of-artificial-femoral-head-and-stem-19437) <br/>
+[On the Influence of Cancellous Bone Structure upon the Electric Field Distribution of Electrostimulative Implants](https://www.comsol.com/paper/on-the-influence-of-cancellous-bone-structure-upon-the-electric-field-distributi-18231) <br/>
+[Modeling of Articular Cartilage Growth Using COMSOL](https://www.comsol.com/paper/modeling-of-articular-cartilage-growth-using-comsol-12094) <br/>
 
 
 ## Magnetism
