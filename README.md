@@ -1,5 +1,6 @@
 # COMSOL resources
-Here is some useful information from COMSOL blogs, the multiphysics Cyclopedia, the Application Gallery and some forum answers. The only sensible source I know to learn about this software package.
+Here is some useful information from COMSOL blogs, the multiphysics Cyclopedia, the Application Gallery and some forum answers. The only sensible source I know to learn about this software package. For completeness, here is the official documentation:
+[COMSOL documentation](https://doc.comsol.com/)
 
 ## COMSOL handling
 [How to Navigate the COMSOL Multiphysics® User Interface](https://www.comsol.com/support/learning-center/article/34991/12) <br/>
