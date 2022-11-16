@@ -138,3 +138,8 @@ App: [Spherical Cap with Central Point Load](https://www.comsol.de/model/spheric
 [Obtaining Material Data for Structural Mechanics from Measurements, part 1](https://www.comsol.com/blogs/obtaining-material-data-for-structural-mechanics-from-measurements) <br/>
 [Obtaining Material Data for Structural Mechanics from Measurements, part 2](https://www.comsol.com/blogs/part-2-obtaining-material-data-for-structural-mechanics-from-measurements) <br/>
 [App: Parameter Estimation for a Tensile Test](https://www.comsol.de/model/parameter-estimation-for-a-tensile-test-88761) <br/>
+
+
+## Meshing and creating input geometries
+
+[How to Convert Point Cloud Data to Surfaces and Solids](https://www.comsol.com/blogs/how-to-convert-point-cloud-data-to-surfaces-and-solids)
