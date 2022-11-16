@@ -61,6 +61,7 @@ the following links shows how to realize a moving heat spot as BC <br/>
 
 [Different stress and strain measures](https://www.comsol.com/blogs/why-all-these-stresses-and-strains) <br/>
 [Generalized plain strain modeling](https://www.comsol.de/blogs/how-to-model-generalized-plane-strain-with-comsol-multiphysics/) <br/>
+[What Is the Difference Between Plane Stress and Plane Strain?](https://www.comsol.com/blogs/what-is-the-difference-between-plane-stress-and-plane-strain) <br/>
 
 [Stiffness of elastic structures 1D](http://www.comsol.com/blogs/computing-stiffness-linear-elastic-structures-part-1) <br/>
 [Stiffness of elastic structures 2+3D](https://www.comsol.com/blogs/computing-stiffness-linear-elastic-structures-part-2) <br/>
@@ -147,5 +148,5 @@ App: [Spherical Cap with Central Point Load](https://www.comsol.de/model/spheric
 
 
 ## Meshing and creating input geometries
-
+[Editing and Repairing Imported Meshes in COMSOL Multiphysics®](https://www.comsol.com/blogs/editing-and-repairing-imported-meshes-in-comsol-multiphysics)
 [How to Convert Point Cloud Data to Surfaces and Solids](https://www.comsol.com/blogs/how-to-convert-point-cloud-data-to-surfaces-and-solids)
