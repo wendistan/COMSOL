@@ -72,6 +72,7 @@ the following links shows how to realize a moving heat spot as BC <br/>
 App: [Large Deformation Analysis of a Beam](https://www.comsol.com/model/large-deformation-analysis-of-a-beam-204) <br/>
 App: [Spherical Cap with Central Point Load](https://www.comsol.de/model/spherical-cap-with-central-point-load-67161) <br/>
 
+
 ### Reduction approaches
 [Trusses, Plates etc. + coupling different parts, strcutural mechanics module](http://www.comsol.com/blogs/coupling-structural-mechanics-interfaces) <br/>
 [Mech. lumped elements](https://www.comsol.de/blogs/how-to-use-lumped-elements-to-model-a-mechanical-system) <br/>
@@ -101,6 +102,11 @@ App: [Spherical Cap with Central Point Load](https://www.comsol.de/model/spheric
 
 [Fatigue and failure](https://www.comsol.com/blogs/modeling-fatigue-failure-in-elastoplastic-materials) <br/>
 [Example: elastoplasticity](https://www.comsol.com/blogs/how-to-implement-elastoplasticity-in-a-model-using-external-materials) <br/>
+
+
+### Thermomechanics
+[Modeling Thermomechanical Fatigue in COMSOL Multiphysics®](https://www.comsol.com/blogs/modeling-thermomechanical-fatigue-in-comsol-multiphysics)
+
 
 
 ### User defined materials
