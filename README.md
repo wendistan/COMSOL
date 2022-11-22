@@ -5,8 +5,8 @@ Here is some useful information from COMSOL blogs, the multiphysics Cyclopedia, 
 ## COMSOL handling
 [How to Navigate the COMSOL Multiphysics® User Interface](https://www.comsol.com/support/learning-center/article/34991/12) <br/>
 [Reduce COMSOL file size](https://www.comsol.com/support/knowledgebase/1238) <br/>
-[Performing a Mesh Refinement Study](https://www.comsol.com/support/knowledgebase/1261)
-[Controlling the Time Dependent Solver Timesteps](https://www.comsol.com/support/knowledgebase/1254)
+[Performing a Mesh Refinement Study](https://www.comsol.com/support/knowledgebase/1261) <br/>
+[Controlling the Time Dependent Solver Timesteps](https://www.comsol.com/support/knowledgebase/1254) <br/>
 
 ## Basics about FEM in COMSOL
 [Finite Element Method](https://www.comsol.com/multiphysics/finite-element-method) <br/>
