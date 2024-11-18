@@ -130,7 +130,7 @@ App: [Spherical Cap with Central Point Load](https://www.comsol.de/model/spheric
 
 
 ### Bone modeling
-[https://www.comsol.com/blogs/generating-a-simulation-mesh-of-a-femur-from-3d-data](https://www.comsol.com/blogs/generating-a-simulation-mesh-of-a-femur-from-3d-data)
+[Generating a Simulation Mesh of a Femur From 3D Data](https://www.comsol.com/blogs/generating-a-simulation-mesh-of-a-femur-from-3d-data)
 [Modeling Bone Strength Using Isotropic and Anisotropic Materials](https://www.comsol.com/blogs/modeling-bone-strength-using-isotropic-anisotropic-materials/)
 [Bone Remodeling Following Total Hip Replacement](https://www.comsol.com/paper/bone-remodeling-following-total-hip-replacement-short-stem-versus-long-stem-impl-13857) <br/>
 [Design and Strain Analysis of Artificial Femoral Head and Stem](https://www.comsol.com/paper/design-and-strain-analysis-of-artificial-femoral-head-and-stem-19437) <br/>
