@@ -4,6 +4,7 @@ Here is some useful information from COMSOL blogs, the multiphysics Cyclopedia, 
 
 ## Learning
 [Learning Center](https://www.comsol.de/c/etux) </br>
+[Multiphysics Cyclopedia](https://www.comsol.com/multiphysics) </br>
 
 ## COMSOL handling
 [How to Navigate the COMSOL Multiphysics® User Interface](https://www.comsol.com/support/learning-center/article/34991/12) <br/>
