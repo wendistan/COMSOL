@@ -14,6 +14,7 @@ Here is some useful information from COMSOL blogs, the multiphysics Cyclopedia, 
 
 ## Basics about FEM in COMSOL
 [Finite Element Method](https://www.comsol.com/multiphysics/finite-element-method) <br/>
+[Finite Element Analysis (FEA) Software](https://www.comsol.com/multiphysics/fea-software) <br/>
 [FEM Basics](https://www.comsol.com/blogs/solving-linear-static-finite-element-models) <br/>
 [The Strength of the Weak Form](https://www.comsol.de/blogs/strength-weak-form/) <br/>
 [Weak form I](https://www.comsol.de/blogs/brief-introduction-weak-form/) <br/>
