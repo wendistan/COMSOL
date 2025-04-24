@@ -122,6 +122,9 @@ App: [Spherical Cap with Central Point Load](https://www.comsol.de/model/spheric
 [Analyzing Electrical and Thermal Conductance in a Contact Switch](https://www.comsol.de/blogs/analyzing-electrical-thermal-conductance-contact-switch/)
 
 
+### Fatigue and frcature
+[Material Fatigue](https://www.comsol.com/multiphysics/material-fatigue) <br/>
+
 ### User defined materials
 [External material model](https://www.comsol.com/blogs/accessing-external-material-models-for-structural-mechanics/) &nbsp;&nbsp; [issue1](https://www.comsol.de/support/knowledgebase/1281) <br/>
 [App: External Material Examples, Structural Mechanics](https://www.comsol.de/model/external-material-examples-structural-mechanics-32331) <br/>
