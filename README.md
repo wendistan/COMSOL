@@ -122,7 +122,7 @@ App: [Spherical Cap with Central Point Load](https://www.comsol.de/model/spheric
 [Analyzing Electrical and Thermal Conductance in a Contact Switch](https://www.comsol.de/blogs/analyzing-electrical-thermal-conductance-contact-switch/)
 
 
-### Fatigue and frcature
+### Fatigue and fracture
 [Material Fatigue](https://www.comsol.com/multiphysics/material-fatigue) <br/>
 
 ### User defined materials
