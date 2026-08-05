@@ -113,8 +113,8 @@ App: [Spherical Cap with Central Point Load](https://www.comsol.de/model/spheric
 
 
 ### Thermomechanics
-[Modeling Thermomechanical Fatigue in COMSOL Multiphysics®](https://www.comsol.com/blogs/modeling-thermomechanical-fatigue-in-comsol-multiphysics)
-
+[Modeling Thermomechanical Fatigue in COMSOL Multiphysics®](https://www.comsol.com/blogs/modeling-thermomechanical-fatigue-in-comsol-multiphysics) <br/>
+[How to Implement Elastoplasticity in a Model Using External Materials](https://www.comsol.com/blogs/how-to-implement-elastoplasticity-in-a-model-using-external-materials)
 
 ### Contact mechanics, adhesion, thermal transfer
 [How to Model Adhesion and Decohesion in COMSOL Multiphysics](https://www.comsol.de/blogs/how-to-model-adhesion-and-decohesion-in-comsol-multiphysics/) <br/>
