@@ -22,6 +22,9 @@ Here is some useful information from COMSOL blogs, the multiphysics Cyclopedia, 
 [Weak form III](https://www.comsol.de/blogs/discretizing-the-weak-form-equations/) <br/>
 [Weak form IV](https://www.comsol.de/blogs/how-to-implement-the-weak-form-for-time-dependent-equations-2/) <br/>
 
+[How to Evaluate Stresses in COMSOL Multiphysics](https://www.comsol.com/blogs/how-to-evaluate-stresses-in-comsol-multiphysics) </br>
+[Introduction to Numerical Integration and Gauss Points](https://www.comsol.com/blogs/introduction-to-numerical-integration-and-gauss-points) </br
+
 [Solving Linear Static Finite Element Models](https://www.comsol.com/blogs/solving-linear-static-finite-element-models) <br/>
 [Solving Nonlinear Static Finite Element Problems](https://www.comsol.com/blogs/solving-nonlinear-static-finite-element-problems) <br/>
 
