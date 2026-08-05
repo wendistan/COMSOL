@@ -102,15 +102,15 @@ App: [Spherical Cap with Central Point Load](https://www.comsol.de/model/spheric
 
 ### Shape memory
 [SMA basics](https://www.comsol.de/blogs/the-elephants-of-materials-science-smas-never-forget-their-shape/) <br/>
-[App: Uniaxial loading](https://www.comsol.de/model/uniaxial-loading-of-shape-memory-alloy-54871) <br/>
-[App: Stent](https://www.comsol.de/model/shape-memory-alloy-self-expanding-stent-65851) <br/>
+App: [Uniaxial loading](https://www.comsol.de/model/uniaxial-loading-of-shape-memory-alloy-54871) <br/>
+App: [Stent](https://www.comsol.de/model/shape-memory-alloy-self-expanding-stent-65851) <br/>
 
 ### Nonlinearity and Elastoplasticity
 [Introducing Nonlinear Elastic Materials](https://www.comsol.com/blogs/introducing-nonlinear-elastic-materials) links! <br/>
 
 [Fatigue and failure](https://www.comsol.com/blogs/modeling-fatigue-failure-in-elastoplastic-materials) <br/>
 [How to Implement Elastoplasticity in a Model Using External Materials](https://www.comsol.com/blogs/how-to-implement-elastoplasticity-in-a-model-using-external-materials) <br/>
-[App: Tensile Test with Strain Rate Dependent Plasticity](https://www.comsol.com/model/tensile-test-with-strain-rate-dependent-plasticity-75431)
+App: [Tensile Test with Strain Rate Dependent Plasticity](https://www.comsol.com/model/tensile-test-with-strain-rate-dependent-plasticity-75431)
 
 ### Thermomechanics
 [Modeling Thermomechanical Fatigue in COMSOL Multiphysics®](https://www.comsol.com/blogs/modeling-thermomechanical-fatigue-in-comsol-multiphysics) <br/>
@@ -127,9 +127,9 @@ App: [Spherical Cap with Central Point Load](https://www.comsol.de/model/spheric
 
 ### User defined materials
 [External material model](https://www.comsol.com/blogs/accessing-external-material-models-for-structural-mechanics/) &nbsp;&nbsp; [issue1](https://www.comsol.de/support/knowledgebase/1281) <br/>
-[App: External Material Examples, Structural Mechanics](https://www.comsol.de/model/external-material-examples-structural-mechanics-32331) <br/>
+App: [External Material Examples, Structural Mechanics](https://www.comsol.de/model/external-material-examples-structural-mechanics-32331) <br/>
 [Example: elastoplasticity](https://www.comsol.com/blogs/how-to-implement-elastoplasticity-in-a-model-using-external-materials/) <br/>
-[App: Damage model](https://www.comsol.com/model/external-material-examples-structural-mechanics-32331) <br/>
+App: [Damage model](https://www.comsol.com/model/external-material-examples-structural-mechanics-32331) <br/>
 
 [Define material properties with functions](https://www.comsol.com/video/use-functions-define-material-property) <br/>
 
