@@ -109,8 +109,8 @@ App: [Spherical Cap with Central Point Load](https://www.comsol.de/model/spheric
 [Introducing Nonlinear Elastic Materials](https://www.comsol.com/blogs/introducing-nonlinear-elastic-materials) links! <br/>
 
 [Fatigue and failure](https://www.comsol.com/blogs/modeling-fatigue-failure-in-elastoplastic-materials) <br/>
-[Example: elastoplasticity](https://www.comsol.com/blogs/how-to-implement-elastoplasticity-in-a-model-using-external-materials) <br/>
-
+[How to Implement Elastoplasticity in a Model Using External Materials](https://www.comsol.com/blogs/how-to-implement-elastoplasticity-in-a-model-using-external-materials) <br/>
+[App: Tensile Test with Strain Rate Dependent Plasticity](https://www.comsol.com/model/tensile-test-with-strain-rate-dependent-plasticity-75431)
 
 ### Thermomechanics
 [Modeling Thermomechanical Fatigue in COMSOL Multiphysics®](https://www.comsol.com/blogs/modeling-thermomechanical-fatigue-in-comsol-multiphysics) <br/>
