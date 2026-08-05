@@ -24,7 +24,7 @@ Here is some useful information from COMSOL blogs, the multiphysics Cyclopedia, 
 
 [Why All These Stresses and Strains?](https://www.comsol.com/blogs/why-all-these-stresses-and-strains) <br/>
 [How to Evaluate Stresses in COMSOL Multiphysics](https://www.comsol.com/blogs/how-to-evaluate-stresses-in-comsol-multiphysics) </br>
-{Singularities in Finite Element Models: Dealing with Red Spots}(https://www.comsol.com/blogs/singularities-in-finite-element-models-dealing-with-red-spots) </br>
+[Singularities in Finite Element Models: Dealing with Red Spots](https://www.comsol.com/blogs/singularities-in-finite-element-models-dealing-with-red-spots) </br>
 [Introduction to Numerical Integration and Gauss Points](https://www.comsol.com/blogs/introduction-to-numerical-integration-and-gauss-points) </br>
 
 [Solving Linear Static Finite Element Models](https://www.comsol.com/blogs/solving-linear-static-finite-element-models) <br/>
