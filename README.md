@@ -22,7 +22,9 @@ Here is some useful information from COMSOL blogs, the multiphysics Cyclopedia, 
 [Weak form III](https://www.comsol.de/blogs/discretizing-the-weak-form-equations/) <br/>
 [Weak form IV](https://www.comsol.de/blogs/how-to-implement-the-weak-form-for-time-dependent-equations-2/) <br/>
 
+[Why All These Stresses and Strains?](https://www.comsol.com/blogs/why-all-these-stresses-and-strains) <br/>
 [How to Evaluate Stresses in COMSOL Multiphysics](https://www.comsol.com/blogs/how-to-evaluate-stresses-in-comsol-multiphysics) </br>
+{Singularities in Finite Element Models: Dealing with Red Spots}(https://www.comsol.com/blogs/singularities-in-finite-element-models-dealing-with-red-spots) </br>
 [Introduction to Numerical Integration and Gauss Points](https://www.comsol.com/blogs/introduction-to-numerical-integration-and-gauss-points) </br>
 
 [Solving Linear Static Finite Element Models](https://www.comsol.com/blogs/solving-linear-static-finite-element-models) <br/>
@@ -65,6 +67,7 @@ the following links shows how to realize a moving heat spot as BC <br/>
 ## Mechanics
 
 ### Some basics in mechanical simulation
+[Stress and Equations of Motion](https://www.comsol.com/multiphysics/stress-and-equations-of-motion) </br>
 [Basics in linear elasticity](https://www.comsol.com/blogs/modeling-linear-elastic-materials-how-difficult-can-it-be) see also links at the end! <br/>
 [Geometric nonlinearity](https://www.comsol.com/blogs/what-is-geometric-nonlinearity) <br/>
 
